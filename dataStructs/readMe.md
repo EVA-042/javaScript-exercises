@@ -5,10 +5,13 @@ as I find the time to test myself and add to my knowledge.
 ---
 
 
-#linear Data Structures
-*linked list
-*doubly linked list
+# linear Data Structure
+---
+* linked list
+* doubly linked list
 ---
 
-#abstract data Structures
+# abstract data Structures
+---
 * tree
+---
